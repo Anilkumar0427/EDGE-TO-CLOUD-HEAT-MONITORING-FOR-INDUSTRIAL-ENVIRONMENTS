@@ -81,6 +81,9 @@ The project provides real-time environmental monitoring, cloud-based data loggin
       +-------------+
 ```
 
+<img width="1600" height="716" alt="image" src="https://github.com/user-attachments/assets/af1fb1b2-2e01-40e6-85fa-0ac36c674f17" />
+<img width="1600" height="735" alt="image" src="https://github.com/user-attachments/assets/0690f293-83f4-4592-9cc9-9a896bb014f6" />
+
 ---
 
 ## 🔄 Working Principle
